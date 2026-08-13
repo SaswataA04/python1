@@ -1,8 +1,8 @@
 student = {
-    "R1": {"name": "Amit", "dept": "CSE", "marks": 85},
-    "R2": {"name": "Rahul", "dept": "ECE", "marks": 72},
-    "R3": {"name": "Sneha", "dept": "CSE", "marks": 91},
-    "R4": {"name": "Priya", "dept": "IT", "marks": 78},
+    "R1": {"name": "Saswata", "dept": "CSE", "marks": 85},
+    "R2": {"name": "RAHUL", "dept": "ECE", "marks": 72},
+    "R3": {"name": "Gaurav", "dept": "CSE", "marks": 91},
+    "R4": {"name": "Priyam", "dept": "IT", "marks": 78},
     "R5": {"name": "Arjun", "dept": "CSE", "marks": 88}
 }
 
