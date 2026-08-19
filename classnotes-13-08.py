@@ -20,7 +20,7 @@ p2.show("Hello")
 
 
 
-#############################
+
 
 #implementation of constructor
 
