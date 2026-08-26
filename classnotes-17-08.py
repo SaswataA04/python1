@@ -144,9 +144,22 @@ obj2.show()  # This will call the show method of the book class, demonstrating m
 
 
 
-##create a class transport with variabes type . create 2 child classes boat nd bus with variable capacity , src , destn & bus has seat_no , src , destn . 
+#create a class transport with variabes type . create 2 child classes boat nd bus with variable capacity , src , destn & bus has seat_no , src , destn . 
 # initialise all the variables of all the classes with constructor . define show() method in transport class to show type of transport . 
 # define show() in boat class to display the records of boat and define another show method in bus class to display the attributes of bus .
+
+
+
+
+
+
+
+
+
+
+
+
+
 # create 2 objects if boat class and 2 objects of bus class  
 
 
@@ -159,6 +172,7 @@ class Transport:
 
 
 class Boat(Transport):
+    
     def __init__(self, type, capacity, src, destn):
         super().__init__(type)
         self.capacity = capacity
