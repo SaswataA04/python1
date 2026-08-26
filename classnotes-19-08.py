@@ -9,6 +9,10 @@ for i in range (1 ,10):
     s= s + math.pow(i , 2) / math.factorial(i)
 print(s)
 
+
+
+
+
 #make a table of 10 mathematical functions, their syntaxes, and descriptions
 
 
@@ -32,7 +36,7 @@ math_functions = [
 
 #create a class shape with a variable radius. initialise the varible with constructr . create a class circld  witch is schild of shape class
 #define a method cal_area() to cal area using math pckg. 
-# create a class shperre which is child of shape class . define cal_volume to finf volume of sphere 
+# create a class shperre which is child of shape class . define cal_volume to find volume of sphere 
 
 
 
